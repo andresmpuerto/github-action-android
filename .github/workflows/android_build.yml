@@ -22,9 +22,9 @@ jobs:
         run: chmod +x ./gradlew
 
       - name: Run Tests
-        run: ./gradlew test
+        run: bash ./gradlew test
 
       - name: Build Project Android
-        run: ./gradlew assemble
+        run: bash ./gradlew assemble
 
 
