@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668810167023",
+    "firebase_url": "https://actions-example-81f1d.firebaseio.com",
+    "project_id": "actions-example-81f1d",
+    "storage_bucket": "actions-example-81f1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668810167023:android:a32e4ab9ea64d38a63511a",
+        "android_client_info": {
+          "package_name": "com.andrempuerto.githubactions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668810167023-uf92omp1qgpocfu7eavlunc86enkgpvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHZlcQEwAiXek4KRGafDFrY8jxeihpBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668810167023-uf92omp1qgpocfu7eavlunc86enkgpvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
